@@ -201,9 +201,10 @@ export default function Home() {
                     height={80}
                     className="mx-auto mb-4 rounded-full border-2 border-gray-300"
                   />
-                  <h4 className="font-semibold text-lg text-center">Nasi Goreng</h4>
-                  <p className="text-gray-500 text-center mt-1">Rp 25.000</p>
+                  <h4 className="font-semibold text-lg text-center">Banana Coklat</h4>
+                  <p className="text-gray-500 text-center mt-1">Rp 18.000</p>
                 </div>
+
                 <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
                   <Image
                     src="/icon-food.png"
@@ -212,7 +213,79 @@ export default function Home() {
                     height={80}
                     className="mx-auto mb-4 rounded-full border-2 border-gray-300"
                   />
-                  <h4 className="font-semibold text-lg text-center">Mie Ayam</h4>
+                  <h4 className="font-semibold text-lg text-center">Sempol</h4>
+                  <p className="text-gray-500 text-center mt-1">Rp 15.000</p>
+                </div>
+
+                <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
+                  <Image
+                    src="/icon-food.png"
+                    alt="Mie Ayam"
+                    width={80}
+                    height={80}
+                    className="mx-auto mb-4 rounded-full border-2 border-gray-300"
+                  />
+                  <h4 className="font-semibold text-lg text-center">Donat</h4>
+                  <p className="text-gray-500 text-center mt-1">Rp 6.000</p>
+                </div>
+
+                <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
+                  <Image
+                    src="/icon-food.png"
+                    alt="Mie Ayam"
+                    width={80}
+                    height={80}
+                    className="mx-auto mb-4 rounded-full border-2 border-gray-300"
+                  />
+                  <h4 className="font-semibold text-lg text-center">Tahu Crisbby</h4>
+                  <p className="text-gray-500 text-center mt-1">Rp 15.000</p>
+                </div>
+
+                <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
+                  <Image
+                    src="/icon-food.png"
+                    alt="Mie Ayam"
+                    width={80}
+                    height={80}
+                    className="mx-auto mb-4 rounded-full border-2 border-gray-300"
+                  />
+                  <h4 className="font-semibold text-lg text-center">Indomie Roket</h4>
+                  <p className="text-gray-500 text-center mt-1">Rp 18.000</p>
+                </div>
+
+                <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
+                  <Image
+                    src="/icon-food.png"
+                    alt="Mie Ayam"
+                    width={80}
+                    height={80}
+                    className="mx-auto mb-4 rounded-full border-2 border-gray-300"
+                  />
+                  <h4 className="font-semibold text-lg text-center">Brownis</h4>
+                  <p className="text-gray-500 text-center mt-1">Rp 6.000</p>
+                </div>
+
+                <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
+                  <Image
+                    src="/icon-food.png"
+                    alt="Mie Ayam"
+                    width={80}
+                    height={80}
+                    className="mx-auto mb-4 rounded-full border-2 border-gray-300"
+                  />
+                  <h4 className="font-semibold text-lg text-center">Indomie Kare</h4>
+                  <p className="text-gray-500 text-center mt-1">Rp 18.000</p>
+                </div>
+
+                <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
+                  <Image
+                    src="/icon-food.png"
+                    alt="Mie Ayam"
+                    width={80}
+                    height={80}
+                    className="mx-auto mb-4 rounded-full border-2 border-gray-300"
+                  />
+                  <h4 className="font-semibold text-lg text-center">Otak-otak</h4>
                   <p className="text-gray-500 text-center mt-1">Rp 15.000</p>
                 </div>
               </div>
