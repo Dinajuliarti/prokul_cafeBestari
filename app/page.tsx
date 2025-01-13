@@ -75,6 +75,7 @@ export default function Home() {
                   <h4 className="font-semibold text-lg text-center">Hot Coffee Latte</h4>
                   <p className="text-gray-500 text-center mt-1">Rp 20.000</p>
                 </div>
+
                 <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
                   <Image
                     src="/icon-drink.png"
@@ -86,6 +87,103 @@ export default function Home() {
                   <h4 className="font-semibold text-lg text-center">Peach Tea</h4>
                   <p className="text-gray-500 text-center mt-1">Rp 18.000</p>
                 </div>
+
+                <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
+                  <Image
+                    src="/icon-drink.png"
+                    alt="Peach Tea"
+                    width={80}
+                    height={80}
+                    className="mx-auto mb-4 rounded-full border-2 border-gray-300"
+                  />
+                  <h4 className="font-semibold text-lg text-center">Strawberry Fields</h4>
+                  <p className="text-gray-500 text-center mt-1">Rp 22.000</p>
+                </div>
+
+                <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
+                  <Image
+                    src="/icon-drink.png"
+                    alt="Peach Tea"
+                    width={80}
+                    height={80}
+                    className="mx-auto mb-4 rounded-full border-2 border-gray-300"
+                  />
+                  <h4 className="font-semibold text-lg text-center">Coffe Pandan</h4>
+                  <p className="text-gray-500 text-center mt-1">Rp 18.000</p>
+                </div>
+
+                <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
+                  <Image
+                    src="/icon-drink.png"
+                    alt="Peach Tea"
+                    width={80}
+                    height={80}
+                    className="mx-auto mb-4 rounded-full border-2 border-gray-300"
+                  />
+                  <h4 className="font-semibold text-lg text-center">Coffe Susu</h4>
+                  <p className="text-gray-500 text-center mt-1">Rp 15.000</p>
+                </div>
+
+                <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
+                  <Image
+                    src="/icon-drink.png"
+                    alt="Peach Tea"
+                    width={80}
+                    height={80}
+                    className="mx-auto mb-4 rounded-full border-2 border-gray-300"
+                  />
+                  <h4 className="font-semibold text-lg text-center">Coffe Aren</h4>
+                  <p className="text-gray-500 text-center mt-1">Rp 17.000</p>
+                </div>
+
+                <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
+                  <Image
+                    src="/icon-drink.png"
+                    alt="Peach Tea"
+                    width={80}
+                    height={80}
+                    className="mx-auto mb-4 rounded-full border-2 border-gray-300"
+                  />
+                  <h4 className="font-semibold text-lg text-center">Peach Coffe</h4>
+                  <p className="text-gray-500 text-center mt-1">Rp 17.000</p>
+                </div>
+
+                <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
+                  <Image
+                    src="/icon-drink.png"
+                    alt="Peach Tea"
+                    width={80}
+                    height={80}
+                    className="mx-auto mb-4 rounded-full border-2 border-gray-300"
+                  />
+                  <h4 className="font-semibold text-lg text-center">Hot Redvalvet</h4>
+                  <p className="text-gray-500 text-center mt-1">Rp 20.000</p>
+                </div>
+
+                <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
+                  <Image
+                    src="/icon-drink.png"
+                    alt="Peach Tea"
+                    width={80}
+                    height={80}
+                    className="mx-auto mb-4 rounded-full border-2 border-gray-300"
+                  />
+                  <h4 className="font-semibold text-lg text-center">Yakult Berry</h4>
+                  <p className="text-gray-500 text-center mt-1">Rp 15.000</p>
+                </div>
+
+                <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
+                  <Image
+                    src="/icon-drink.png"
+                    alt="Peach Tea"
+                    width={80}
+                    height={80}
+                    className="mx-auto mb-4 rounded-full border-2 border-gray-300"
+                  />
+                  <h4 className="font-semibold text-lg text-center">Espresso</h4>
+                  <p className="text-gray-500 text-center mt-1">Rp 12.000</p>
+                </div>
+                
               </div>
             </div>
           )}
