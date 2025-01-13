@@ -320,7 +320,7 @@ export default function Home() {
       </section>
 
       {/* Kunjungi Kami */}
-      <section className="my-8 px-4">
+      <section className="my-16 px-4">
         <h2 className="text-2xl font-bold text-center mb-4">Kunjungi Kami</h2>
         <div className="overflow-x-auto">
           <div className="flex gap-4">
@@ -330,7 +330,7 @@ export default function Home() {
                 alt="Marchandise Bestari"
                 width={300}
                 height={200}
-                className="mx-auto"
+                className="mx-auto object-cover h-[320px] w-[300px]"
               />
               <p className="font-semibold text-lg text-center">Marchandise Bestari</p>
               </div>
@@ -340,9 +340,9 @@ export default function Home() {
                 alt="Lesehan"
                 width={300}
                 height={200}
-                className="mx-auto"
+                className="mx-auto object-cover h-[320px] w-[300px]"
               />
-              <p className="text-center font-bold mt-2">Lesehan Sanati Bestari</p>
+              <p className="font-semibold text-lg text-center">Lesehan Sanati Bestari</p>
             </div>
             <div className="border rounded-lg p-4 shadow min-w-[300px]">
               <Image
@@ -350,9 +350,9 @@ export default function Home() {
                 alt="Moment"
                 width={300}
                 height={200}
-                className="mx-auto"
+                className="mx-auto object-cover h-[320px] w-[300px]"
               />
-              <p className="text-center font-bold mt-2">Abadikan Moment Kalian</p>
+              <p className="font-semibold text-lg text-center">Abadikan Moment Kalian</p>
             </div>
             <div className="border rounded-lg p-4 shadow min-w-[300px]">
               <Image
@@ -360,9 +360,9 @@ export default function Home() {
                 alt="outdor"
                 width={300}
                 height={200}
-                className="mx-auto"
+                className="mx-auto object-cover h-[320px] w-[300px]"
               />
-              <p className="text-center font-bold mt-2">Outdoor Kece</p>
+              <p className="font-semibold text-lg text-center">Outdoor Kece</p>
             </div>
             <div className="border rounded-lg p-4 shadow min-w-[300px]">
               <Image
@@ -370,9 +370,9 @@ export default function Home() {
                 alt="indoor"
                 width={300}
                 height={200}
-                className="mx-auto"
+                className="mx-auto object-cover h-[320px] w-[300px]"
               />
-              <p className="text-center font-bold mt-2">Indoor Aesthetics</p>
+              <p className="font-semibold text-lg text-center">Indoor Aesthetics</p>
             </div>
           </div>
         </div>
