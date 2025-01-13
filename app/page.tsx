@@ -319,6 +319,11 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Kunjungi Kami */}
+      <section className="my-8 px-4">
+        <h2 className="text-2xl font-bold text-center mb-4">Kunjungi Kami</h2>
+      </section>
+
       {/* Footer */}
       <footer className="bg-[#a05a2c] text-white p-4 flex flex-col justify-center items-center text-center">
         <h4 className="text-lg font-semibold">Hubungi Kami</h4>
