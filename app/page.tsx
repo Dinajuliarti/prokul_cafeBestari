@@ -302,9 +302,11 @@ export default function Home() {
         <p className="text-white-600 mt-1">
            Email: <a href="mailto:bestarii@coffee.com" className="text-blue-500">bestarii@gmail.com</a>
         </p>
+
+        <p className="text-white-600 mt-1">
+          Telepon: <a href="tel:+621234567890" className="text-blue-500">+62 878 4875 2584</a>
+        </p>
       </footer>
-
-
     </div>
   );
 }
