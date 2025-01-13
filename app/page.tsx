@@ -31,7 +31,7 @@ export default function Home() {
 <section className="my-8 px-4">
   <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 max-w-6xl mx-auto">
     {/* Menu 1 */}
-    <div className="border p-4 rounded-md ">
+    <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
       <img
         src="/icon-drink.png"
         alt="Menu 1"
@@ -39,7 +39,7 @@ export default function Home() {
       />
     </div>
     {/* Menu 2*/}
-    <div className="border p-4 rounded-md ">
+    <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform ">
       <img
         src="/icon-drink.png"
         alt="Menu 2"
@@ -47,7 +47,7 @@ export default function Home() {
       />
     </div>
     {/* Menu 3 */}
-    <div className="border p-4 rounded-md ">
+    <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
       <img
         src="/icon-drink.png"
         alt="Menu 3"
@@ -55,7 +55,7 @@ export default function Home() {
       />
     </div>
     {/* Menu 4 */}
-    <div className="border p-4 rounded-md ">
+    <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
       <img
         src="/icon-food.png"
         alt="Menu 4"
