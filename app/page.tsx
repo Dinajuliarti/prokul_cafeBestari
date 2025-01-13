@@ -27,6 +27,44 @@ export default function Home() {
         </p>
       </section>
 
+      {/* Menu */}
+<section className="my-8 px-4">
+  <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 max-w-6xl mx-auto">
+    {/* Menu 1 */}
+    <div className="border p-4 rounded-md ">
+      <img
+        src="/icon-drink.png"
+        alt="Menu 1"
+        className="w-20 h-20 mx-auto mb-4 rounded-full border-2 border-gray-300"
+      />
+    </div>
+    {/* Menu 2*/}
+    <div className="border p-4 rounded-md ">
+      <img
+        src="/icon-drink.png"
+        alt="Menu 2"
+        className="w-20 h-20 mx-auto mb-4 rounded-full border-2 border-gray-300"
+      />
+    </div>
+    {/* Menu 3 */}
+    <div className="border p-4 rounded-md ">
+      <img
+        src="/icon-drink.png"
+        alt="Menu 3"
+        className="w-20 h-20 mx-auto mb-4 rounded-full border-2 border-gray-300"
+      />
+    </div>
+    {/* Menu 4 */}
+    <div className="border p-4 rounded-md ">
+      <img
+        src="/icon-food.png"
+        alt="Menu 4"
+        className="w-20 h-20 mx-auto mb-4 rounded-full border-2 border-gray-300"
+      />
+    </div>
+    </div>
+    </section>
+
     </div>
   );
 }
