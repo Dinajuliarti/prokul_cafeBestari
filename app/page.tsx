@@ -333,6 +333,46 @@ export default function Home() {
                 className="mx-auto"
               />
               <p className="font-semibold text-lg text-center">Marchandise Bestari</p>
+              </div>
+            <div className="border rounded-lg p-4 shadow min-w-[300px]">
+              <Image
+                src="/image/lesehan.jpg"
+                alt="Lesehan"
+                width={300}
+                height={200}
+                className="mx-auto"
+              />
+              <p className="text-center font-bold mt-2">Lesehan Sanati Bestari</p>
+            </div>
+            <div className="border rounded-lg p-4 shadow min-w-[300px]">
+              <Image
+                src="/image/momen.jpg"
+                alt="Moment"
+                width={300}
+                height={200}
+                className="mx-auto"
+              />
+              <p className="text-center font-bold mt-2">Abadikan Moment Kalian</p>
+            </div>
+            <div className="border rounded-lg p-4 shadow min-w-[300px]">
+              <Image
+                src="/image/outdor.jpg"
+                alt="outdor"
+                width={300}
+                height={200}
+                className="mx-auto"
+              />
+              <p className="text-center font-bold mt-2">Outdoor Kece</p>
+            </div>
+            <div className="border rounded-lg p-4 shadow min-w-[300px]">
+              <Image
+                src="/image/indoor.jpg"
+                alt="indoor"
+                width={300}
+                height={200}
+                className="mx-auto"
+              />
+              <p className="text-center font-bold mt-2">Indoor Aesthetics</p>
             </div>
           </div>
         </div>
