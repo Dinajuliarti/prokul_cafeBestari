@@ -78,43 +78,55 @@ export default function Home() {
 
                 <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
                   <Image
-                    src="/icon-drink.png"
+                    src="/image/Berry Tea.jpg"
                     alt="Peach Tea"
                     width={80}
                     height={80}
                     className="mx-auto mb-4 rounded-full border-2 border-gray-300"
                   />
-                  <h4 className="font-semibold text-lg text-center">Peach Tea</h4>
+                  <h4 className="font-semibold text-lg text-center">Berry Tea</h4>
+                  <p className="text-gray-500 text-center mt-1">Rp 15.000</p>
+                </div>
+
+                <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
+                  <Image
+                    src="/image/Coffe Aren.jpg"
+                    alt="Coffe Aren"
+                    width={80}
+                    height={80}
+                    className="mx-auto mb-4 rounded-full border-2 border-gray-300"
+                  />
+                  <h4 className="font-semibold text-lg text-center">Coffe Aren</h4>
+                  <p className="text-gray-500 text-center mt-1">Rp 17.000</p>
+                </div>
+
+                <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
+                  <Image
+                    src="/image/Coffe Latte.jpg"
+                    alt="Coffe Latte"
+                    width={80}
+                    height={80}
+                    className="mx-auto mb-4 rounded-full border-2 border-gray-300"
+                  />
+                  <h4 className="font-semibold text-lg text-center">Coffe Latte</h4>
                   <p className="text-gray-500 text-center mt-1">Rp 18.000</p>
                 </div>
 
                 <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
                   <Image
-                    src="/icon-drink.png"
-                    alt="Peach Tea"
-                    width={80}
-                    height={80}
-                    className="mx-auto mb-4 rounded-full border-2 border-gray-300"
-                  />
-                  <h4 className="font-semibold text-lg text-center">Strawberry Fields</h4>
-                  <p className="text-gray-500 text-center mt-1">Rp 22.000</p>
-                </div>
-
-                <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
-                  <Image
-                    src="/icon-drink.png"
+                    src="/image/Coffe Pandan.jpg"
                     alt="Peach Tea"
                     width={80}
                     height={80}
                     className="mx-auto mb-4 rounded-full border-2 border-gray-300"
                   />
                   <h4 className="font-semibold text-lg text-center">Coffe Pandan</h4>
-                  <p className="text-gray-500 text-center mt-1">Rp 18.000</p>
+                  <p className="text-gray-500 text-center mt-1">Rp 16.000</p>
                 </div>
 
                 <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
                   <Image
-                    src="/icon-drink.png"
+                    src="/image/Coffe Susu.jpg"
                     alt="Peach Tea"
                     width={80}
                     height={80}
@@ -126,20 +138,8 @@ export default function Home() {
 
                 <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
                   <Image
-                    src="/icon-drink.png"
-                    alt="Peach Tea"
-                    width={80}
-                    height={80}
-                    className="mx-auto mb-4 rounded-full border-2 border-gray-300"
-                  />
-                  <h4 className="font-semibold text-lg text-center">Coffe Aren</h4>
-                  <p className="text-gray-500 text-center mt-1">Rp 17.000</p>
-                </div>
-
-                <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
-                  <Image
-                    src="/icon-drink.png"
-                    alt="Peach Tea"
+                    src="/image/Peach Coffe.jpg"
+                    alt="Peach Coffe"
                     width={80}
                     height={80}
                     className="mx-auto mb-4 rounded-full border-2 border-gray-300"
@@ -150,20 +150,20 @@ export default function Home() {
 
                 <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
                   <Image
-                    src="/icon-drink.png"
-                    alt="Peach Tea"
+                    src="/image/Strawberry Fields.jpg"
+                    alt="Strawberry Fields"
                     width={80}
                     height={80}
                     className="mx-auto mb-4 rounded-full border-2 border-gray-300"
                   />
-                  <h4 className="font-semibold text-lg text-center">Hot Redvalvet</h4>
+                  <h4 className="font-semibold text-lg text-center">Strawberry Fields</h4>
                   <p className="text-gray-500 text-center mt-1">Rp 20.000</p>
                 </div>
 
                 <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
                   <Image
-                    src="/icon-drink.png"
-                    alt="Peach Tea"
+                    src="/image/Yakult Berry.jpg"
+                    alt="Yakult Berry"
                     width={80}
                     height={80}
                     className="mx-auto mb-4 rounded-full border-2 border-gray-300"
@@ -174,14 +174,26 @@ export default function Home() {
 
                 <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
                   <Image
-                    src="/icon-drink.png"
-                    alt="Peach Tea"
+                    src="/image/Espresso.jpg"
+                    alt="Espresso"
                     width={80}
                     height={80}
                     className="mx-auto mb-4 rounded-full border-2 border-gray-300"
                   />
                   <h4 className="font-semibold text-lg text-center">Espresso</h4>
                   <p className="text-gray-500 text-center mt-1">Rp 12.000</p>
+                </div>
+
+                <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
+                  <Image
+                    src="/image/Peach Tea.jpg"
+                    alt="Peach Tea"
+                    width={80}
+                    height={80}
+                    className="mx-auto mb-4 rounded-full border-2 border-gray-300"
+                  />
+                  <h4 className="font-semibold text-lg text-center">Peach Tea</h4>
+                  <p className="text-gray-500 text-center mt-1">Rp 15.000</p>
                 </div>
                 
               </div>
@@ -195,32 +207,32 @@ export default function Home() {
                 {/* Menu Makanan */}
                 <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
                   <Image
-                    src="/icon-food.png"
-                    alt="Nasi Goreng"
+                    src="/image/pisang.jpg"
+                    alt="Banana Coklat"
                     width={80}
                     height={80}
                     className="mx-auto mb-4 rounded-full border-2 border-gray-300"
                   />
                   <h4 className="font-semibold text-lg text-center">Banana Coklat</h4>
-                  <p className="text-gray-500 text-center mt-1">Rp 18.000</p>
+                  <p className="text-gray-500 text-center mt-1">Rp 5.000</p>
                 </div>
 
                 <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
                   <Image
-                    src="/icon-food.png"
-                    alt="Mie Ayam"
+                    src="/image/sempol.jpg"
+                    alt="Sempol"
                     width={80}
                     height={80}
                     className="mx-auto mb-4 rounded-full border-2 border-gray-300"
                   />
                   <h4 className="font-semibold text-lg text-center">Sempol</h4>
-                  <p className="text-gray-500 text-center mt-1">Rp 15.000</p>
+                  <p className="text-gray-500 text-center mt-1">Rp 5.000</p>
                 </div>
 
                 <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
                   <Image
-                    src="/icon-food.png"
-                    alt="Mie Ayam"
+                    src="/image/donat.jpg"
+                    alt="Donat"
                     width={80}
                     height={80}
                     className="mx-auto mb-4 rounded-full border-2 border-gray-300"
@@ -231,20 +243,20 @@ export default function Home() {
 
                 <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
                   <Image
-                    src="/icon-food.png"
-                    alt="Mie Ayam"
+                    src="/image/tahu.jpg"
+                    alt="Tahu Crisbby"
                     width={80}
                     height={80}
                     className="mx-auto mb-4 rounded-full border-2 border-gray-300"
                   />
                   <h4 className="font-semibold text-lg text-center">Tahu Crisbby</h4>
-                  <p className="text-gray-500 text-center mt-1">Rp 15.000</p>
+                  <p className="text-gray-500 text-center mt-1">Rp 5.000</p>
                 </div>
 
                 <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
                   <Image
-                    src="/icon-food.png"
-                    alt="Mie Ayam"
+                    src="/image/mieroket.jpg"
+                    alt="Indomie Roket"
                     width={80}
                     height={80}
                     className="mx-auto mb-4 rounded-full border-2 border-gray-300"
@@ -255,8 +267,8 @@ export default function Home() {
 
                 <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
                   <Image
-                    src="/icon-food.png"
-                    alt="Mie Ayam"
+                    src="/image/bronis.jpg"
+                    alt="Brownis"
                     width={80}
                     height={80}
                     className="mx-auto mb-4 rounded-full border-2 border-gray-300"
@@ -267,27 +279,40 @@ export default function Home() {
 
                 <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
                   <Image
-                    src="/icon-food.png"
-                    alt="Mie Ayam"
+                    src="/image/miekare.jpg"
+                    alt="Indomie Kare"
                     width={80}
                     height={80}
                     className="mx-auto mb-4 rounded-full border-2 border-gray-300"
                   />
                   <h4 className="font-semibold text-lg text-center">Indomie Kare</h4>
-                  <p className="text-gray-500 text-center mt-1">Rp 18.000</p>
+                  <p className="text-gray-500 text-center mt-1">Rp 10.000</p>
                 </div>
 
                 <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
                   <Image
-                    src="/icon-food.png"
-                    alt="Mie Ayam"
+                    src="/image/otak-otak.jpg"
+                    alt="Otak-otak"
                     width={80}
                     height={80}
                     className="mx-auto mb-4 rounded-full border-2 border-gray-300"
                   />
                   <h4 className="font-semibold text-lg text-center">Otak-otak</h4>
-                  <p className="text-gray-500 text-center mt-1">Rp 15.000</p>
+                  <p className="text-gray-500 text-center mt-1">Rp 5.000</p>
                 </div>
+
+                <div className="border p-4 rounded-md shadow-lg transform hover:scale-105 transition-transform">
+                  <Image
+                    src="/image/bolu.jpg"
+                    alt="bolu"
+                    width={80}
+                    height={80}
+                    className="mx-auto mb-4 rounded-full border-2 border-gray-300"
+                  />
+                  <h4 className="font-semibold text-lg text-center">Bolu</h4>
+                  <p className="text-gray-500 text-center mt-1">Rp 5.000</p>
+                </div>
+
               </div>
             </div>
           )}
