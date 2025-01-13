@@ -325,7 +325,14 @@ export default function Home() {
         <div className="overflow-x-auto">
           <div className="flex gap-4">
             <div className="border rounded-lg p-4 shadow min-w-[300px]">
-              
+            <Image
+                src="/image/marchandise.jpg"
+                alt="Marchandise Bestari"
+                width={300}
+                height={200}
+                className="mx-auto"
+              />
+              <p className="font-semibold text-lg text-center">Marchandise Bestari</p>
             </div>
           </div>
         </div>
