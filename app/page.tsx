@@ -293,6 +293,14 @@ export default function Home() {
           )}
         </div>
       </section>
+
+      {/* Footer */}
+      <footer className="bg-[#a05a2c] text-white p-4 flex flex-col justify-center items-center text-center">
+        <h4 className="text-lg font-semibold">Hubungi Kami</h4>
+        <p className="text-gray-300 mt-2">Alamat: Jl. Milono | Gn. Pasi</p>
+      </footer>
+
+
     </div>
   );
 }
