@@ -298,6 +298,10 @@ export default function Home() {
       <footer className="bg-[#a05a2c] text-white p-4 flex flex-col justify-center items-center text-center">
         <h4 className="text-lg font-semibold">Hubungi Kami</h4>
         <p className="text-gray-300 mt-2">Alamat: Jl. Milono | Gn. Pasi</p>
+
+        <p className="text-white-600 mt-1">
+           Email: <a href="mailto:bestarii@coffee.com" className="text-blue-500">bestarii@gmail.com</a>
+        </p>
       </footer>
 
 
