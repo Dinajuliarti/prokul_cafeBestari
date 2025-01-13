@@ -324,7 +324,9 @@ export default function Home() {
         <h2 className="text-2xl font-bold text-center mb-4">Kunjungi Kami</h2>
         <div className="overflow-x-auto">
           <div className="flex gap-4">
-            
+            <div className="border rounded-lg p-4 shadow min-w-[300px]">
+              
+            </div>
           </div>
         </div>
       </section>
