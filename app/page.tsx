@@ -322,6 +322,9 @@ export default function Home() {
       {/* Kunjungi Kami */}
       <section className="my-8 px-4">
         <h2 className="text-2xl font-bold text-center mb-4">Kunjungi Kami</h2>
+        <div className="overflow-x-auto">
+          
+        </div>
       </section>
 
       {/* Footer */}
